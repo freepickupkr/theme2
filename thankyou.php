@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title>Visit Korea - Incheon(Gimpo) International Airport pick-up service - Contact</title>
+  <title>Incheon(Gimpo) International Airport pick-up service - Thank you contact me</title>
 
 
   <!-- mobile responsive meta -->
@@ -15,11 +15,11 @@
   <meta name="description" content="Visit korea, Free Picku up, Pick up service, Airport pick up" />
   <meta name="keyword" content="pickup, freepickup">
   <meta property="og:type" content="website" />
-  <meta property="og:title" content="Free pick-up service Contact Imformation" />
+  <meta property="og:title" content="Free pick-up service" />
   <meta property="og:description" content="Korea Incheon(or Gimpo) International Airport Free pick-up service" />
   <meta property="og:url" content="https://www.clicktable.cf" />
 
- 
+   
   <!-- ** Plugins Needed for the Project ** -->
   <!-- Bootstrap -->
   <link rel="stylesheet" href="img/plugins/bootstrap/bootstrap.min.css">
@@ -93,35 +93,18 @@
 </section>
 <!-- /page-title -->
 
-<div style="text-align:center; margin: 30px 0 30px;">
-<h1>Contact</h1>
-<form method="POST" name="contactform" action="contacthandler.php"> 
-<p>
-<label for='name'>Full name:</label> <br>
-<input type="text" name="name">
-</p>
-<p>
-<label for='email'>Email:</label> <br>
-<input type="text" name="email"> <br>
-</p>
-<p>
-<label for='message1'>Message:</label> <br>
-<textarea name="message1" rows="6" cols="60">
-</textarea>
-</p>
+<section class="section bg-light">
+  <div class="container">
+    <div class="col-md-6">
+            <h3>Completed!</h3>
+<p>I will reply you as soon as possible.</p>
+
+        </div>
+  </div>
+</section>
+<!-- /page-title -->
 
 
-<p>- Make sure that the content is entered correctly.</p>
-<input type="submit" value="Send"><br>
-</form>
-</tr></td></table>
-<script language="JavaScript">
-var frmvalidator  = new Validator("contactform");
-frmvalidator.addValidation("name","req","Please provide your name"); 
-frmvalidator.addValidation("email","req","Please provide your email"); 
-frmvalidator.addValidation("email","email","Please enter a valid email address"); 
-</script>
-</div>
 
 <!-- footer -->
 

@@ -134,32 +134,6 @@
 <!-- footer -->
 <footer class="bg-secondary position-relative">
   <img src="images/backgrounds/map.png" class="img-fluid overlay-image" alt="">
-  <div class="section">
-    <div class="container">
-      <div class="row align-items-center">
-        <div class="col-md-3 col-6">
-          <h4 class="text-white mb-5">Home</h4>
-          <ul class="list-unstyled">
-            <li><a href="about.php" class="text-light d-block mb-3">About</a></li>
-			<li><a href="services.php" class="text-light d-block mb-3">Services</a></li>
-			<li><a href="faqs.php" class="text-light d-block mb-3">FAQ's</a></li>
-            <li><a href="contact.php" class="text-light d-block mb-3">Conatact</a></li>
-          </ul>
-        </div>
-        <div class="col-md-6">
-          <div class="bg-white p-4">
-            <h3>Contact</h3>
-            <form action="#">
-              <input type="text" id="name" name="name" class="form-control mb-4 px-0" placeholder="Full name">
-              <input type="text" id="name" name="name" class="form-control mb-4 px-0" placeholder="Email address">
-              <textarea name="message" id="message" class="form-control mb-4 px-0" placeholder="Message"></textarea>
-              <button class="btn btn-primary" type="submit">Send</button>
-            </form>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
   <div class="pb-4">
     <div class="container">
       <div class="row align-items-center">
