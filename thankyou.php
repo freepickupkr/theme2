@@ -17,27 +17,27 @@
   <meta property="og:type" content="website" />
   <meta property="og:title" content="Free pick-up service" />
   <meta property="og:description" content="Korea Incheon(or Gimpo) International Airport Free pick-up service" />
-  <meta property="og:url" content="https://www.clicktable.cf" />
+  <meta property="og:url" content="https://www.freepickupkr.site" />
 
    
   <!-- ** Plugins Needed for the Project ** -->
   <!-- Bootstrap -->
-  <link rel="stylesheet" href="img/plugins/bootstrap/bootstrap.min.css">
+  <link rel="stylesheet" href="plugins/bootstrap/bootstrap.min.css">
   <!-- slick slider -->
-  <link rel="stylesheet" href="img/plugins/slick/slick.css">
+  <link rel="stylesheet" href="plugins/slick/slick.css">
   <!-- themefy-icon -->
-  <link rel="stylesheet" href="img/plugins/themify-icons/themify-icons.css">
+  <link rel="stylesheet" href="plugins/themify-icons/themify-icons.css">
   <!-- venobox css -->
-  <link rel="stylesheet" href="img/plugins/venobox/venobox.css">
+  <link rel="stylesheet" href="plugins/venobox/venobox.css">
   <!-- card slider -->
-  <link rel="stylesheet" href="img/plugins/card-slider/css/style.css">
+  <link rel="stylesheet" href="plugins/card-slider/css/style.css">
 
 
   <!-- Main Stylesheet -->
-  <link href="img/css/style.css" rel="stylesheet">
+  <link href="css/style.css" rel="stylesheet">
   
 
-<script language="JavaScript" src="{{$template}}/inc/genvalid.js" type="text/javascript"></script>
+<script language="JavaScript" src="genvalid.js" type="text/javascript"></script>
 </head>
 
 
@@ -47,7 +47,7 @@
 
 <header class="navigation fixed-top">
   <nav class="navbar navbar-expand-lg navbar-dark">
-    <a class="navbar-brand" href="index.php"><img src="img/images/logo.png" alt="Egen"></a>
+    <a class="navbar-brand" href="index.php"><img src="images/logo.png" alt="Egen"></a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
       aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -82,7 +82,7 @@
 
 
 <!-- page-title -->
-<section class="page-title bg-cover" data-background="img/images/backgrounds/page-title.jpg">
+<section class="page-title bg-cover" data-background="images/backgrounds/page-title.jpg">
   <div class="container">
     <div class="row">
       <div class="col-12 text-center">
@@ -130,28 +130,28 @@
 
 
 <!-- jQuery -->
-<script src="https://freepickupkr.site/aaa/plugins/jQuery/jquery.min.js"></script>
+<script src="plugins/jQuery/jquery.min.js"></script>
 <!-- Bootstrap JS -->
-<script src="https://freepickupkr.site/aaa/plugins/bootstrap/bootstrap.min.js"></script>
+<script src="plugins/bootstrap/bootstrap.min.js"></script>
 <!-- slick slider -->
-<script src="https://freepickupkr.site/aaa/plugins/slick/slick.min.js"></script>
+<script src="plugins/slick/slick.min.js"></script>
 <!-- venobox -->
-<script src="https://freepickupkr.site/aaa/plugins/venobox/venobox.min.js"></script>
+<script src="plugins/venobox/venobox.min.js"></script>
 <!-- shuffle -->
-<script src="https://freepickupkr.site/aaa/plugins/shuffle/shuffle.min.js"></script>
+<script src="plugins/shuffle/shuffle.min.js"></script>
 <!-- apear js -->
-<script src="https://freepickupkr.site/aaa/plugins/counto/apear.js"></script>
+<script src="plugins/counto/apear.js"></script>
 <!-- counter -->
-<script src="https://freepickupkr.site/aaa/plugins/counto/counTo.js"></script>
+<script src="plugins/counto/counTo.js"></script>
 <!-- card slider -->
-<script src="https://freepickupkr.site/aaa/plugins/card-slider/js/card-slider-min.js"></script>
+<script src="plugins/card-slider/js/card-slider-min.js"></script>
 <!-- google map -->
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"></script>
-<script src="https://freepickupkr.site/aaa/plugins/google-map/gmap.js"></script>
+<script src="plugins/google-map/gmap.js"></script>
 
 
 <!-- Main Script -->
-<script src="img/js/script.js"></script>
+<script src="js/script.js"></script>
 
 
 </body>

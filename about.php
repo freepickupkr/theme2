@@ -13,7 +13,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   
   <!-- theme meta -->
-  <meta name="theme-name" content="agen" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <!-- mobile responsive meta -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="Visit korea, Free Picku up, Pick up service, Airport pick up" />
+  <meta name="keyword" content="pickup, freepickup">
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Free pick-up service" />
+  <meta property="og:description" content="Korea Incheon(or Gimpo) International Airport Free pick-up service" />
+  <meta property="og:url" content="https://www.freepickupkr.site" />
   
   <!-- ** Plugins Needed for the Project ** -->
   <!-- Bootstrap -->

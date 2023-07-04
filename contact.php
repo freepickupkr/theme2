@@ -17,7 +17,7 @@
   <meta property="og:type" content="website" />
   <meta property="og:title" content="Free pick-up service Contact Imformation" />
   <meta property="og:description" content="Korea Incheon(or Gimpo) International Airport Free pick-up service" />
-  <meta property="og:url" content="https://www.clicktable.cf" />
+  <meta property="og:url" content="https://www.freepickupkr.site" />
 
  
   <!-- ** Plugins Needed for the Project ** -->
