@@ -1,12 +1,18 @@
-<html lang="en">
+<!DOCTYPE html>
 
+
+
+<html lang="en">
 
 <head>
   <meta charset="utf-8">
-  <title>Visit Korea - Incheon(Gimpo) International Airport pick-up service - Contact</title>
-
+  <title>Incheon(Gimpo) International Airport pick-up service</title>
 
   <!-- mobile responsive meta -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  
+  <!-- theme meta -->
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <!-- mobile responsive meta -->
@@ -15,12 +21,10 @@
   <meta name="description" content="Visit korea, Free Picku up, Pick up service, Airport pick up" />
   <meta name="keyword" content="pickup, freepickup">
   <meta property="og:type" content="website" />
-  <meta property="og:title" content="Free pick-up service Contact Imformation" />
+  <meta property="og:title" content="Free pick-up service" />
   <meta property="og:description" content="Korea Incheon(or Gimpo) International Airport Free pick-up service" />
   <meta property="og:url" content="https://www.freepickupkr.site" />
   <meta name="naver-site-verification" content="234ff6d4876fbda29b9499684ad6fee91057b9c5" />
- 
- 
   <!-- ** Plugins Needed for the Project ** -->
   <!-- Bootstrap -->
   <link rel="stylesheet" href="plugins/bootstrap/bootstrap.min.css">
@@ -33,7 +37,8 @@
   <!-- card slider -->
   <link rel="stylesheet" href="plugins/card-slider/css/style.css">
 
-
+  <!-- Main Stylesheet -->
+  <link href="css/style.css" rel="stylesheet">
   
   <!--Favicon-->
   <link rel="apple-touch-icon" sizes="57x57" href="images/fa/apple-icon-57x57.png">
@@ -56,23 +61,18 @@
   <link rel="shortcut icon" href="images/fa/favicon.ico" type="image/x-icon">
   <link rel="icon" href="images/fa/favicon.ico" type="image/x-icon">
 
-<!-- Main Stylesheet -->
-<script language="JavaScript" src="genvalid.js" type="text/javascript"></script>
 </head>
-
 
 <body>
   
 
-
 <header class="navigation fixed-top">
   <nav class="navbar navbar-expand-lg navbar-dark">
-    <a class="navbar-brand" href="index.php"><img src="images/logo.png" alt="Egen"></a>
+    <a class="navbar-brand" href="index.html"><img src="images/logo.png" alt="Egen"></a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
       aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
-
 
     <div class="collapse navbar-collapse text-center" id="navigation">
       <ul class="navbar-nav ml-auto">
@@ -96,11 +96,6 @@
   </nav>
 </header>
 
-
-
-
-
-
 <!-- page-title -->
 <section class="page-title bg-cover" data-background="images/backgrounds/page-title.jpg">
   <div class="container">
@@ -113,21 +108,26 @@
 </section>
 <!-- /page-title -->
 
+
+
+<!-- team -->
 <section class="section">
   <div class="container">
     <div class="row">
       <div class="col-lg-10 mx-auto text-center">
-        <h2>Email or Instagram</h2>
-	      <div class="section-border"></div>
+        <h2>Send Message or Email</h2>
+		<div class="section-border"></div>
 	      <p><a href="https://www.instagram.com/freepickupkr/" target="_blank">Instagram</a></p>
 	      <p>freepickupkr@gmail.com</p>
       </div>
     </div>
   </div>
 </section>
+<!-- /team -->
+
+
 
 <!-- footer -->
-
 <footer class="bg-secondary position-relative">
   <img src="images/backgrounds/map.png" class="img-fluid overlay-image" alt="">
   <div class="pb-4">
@@ -147,7 +147,6 @@
   </div>
 </footer>
 <!-- /footer -->
-
 
 <!-- jQuery -->
 <script src="plugins/jQuery/jquery.min.js"></script>
@@ -169,10 +168,8 @@
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"></script>
 <script src="plugins/google-map/gmap.js"></script>
 
-
 <!-- Main Script -->
 <script src="js/script.js"></script>
-
 
 </body>
 </html>
