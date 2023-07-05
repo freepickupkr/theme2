@@ -236,7 +236,6 @@
               <li class="text-white mb-3">Jamsil station/72Km</li>
               <li class="text-white mb-3">Myeongdong/61Km</li>
             </ul>
-            <a href="#" class="btn btn-outline-light">Try it now</a>
           </div>
         </div>
       </div>
@@ -253,7 +252,6 @@
               <li class="text-white mb-3">EVERLAND RESORT/85km</li>
               <li class="text-white mb-3">Uijeongbu/77Km</li>
             </ul>
-            <a href="#" class="btn btn-outline-light">Try it now</a>
           </div>
         </div>
       </div>
@@ -270,7 +268,6 @@
               <li class="text-white mb-3">Mokpo/3Hours(by Train)</li>
               <li class="text-white mb-3">Pohang/2 and a half hours(by Train)</li>
             </ul>
-            <a href="#" class="btn btn-outline-light">Try it now</a>
           </div>
         </div>
       </div>
