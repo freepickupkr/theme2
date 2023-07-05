@@ -59,7 +59,7 @@
 
     <div class="collapse navbar-collapse text-center" id="navigation">
       <ul class="navbar-nav ml-auto">
-        <li class="nav-item active">
+        <li class="nav-item">
           <a class="nav-link" href="index.php">Home</a>
         </li>
         <li class="nav-item">
@@ -68,7 +68,7 @@
         <li class="nav-item">
           <a class="nav-link" href="services.php">Services</a>
         </li>
-        <li class="nav-item">
+        <li class="nav-item active">
           <a class="nav-link" href="faqs.php">FAQ's</a>
         </li>
         <li class="nav-item">
