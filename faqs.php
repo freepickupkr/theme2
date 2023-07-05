@@ -59,7 +59,7 @@
   <meta name="msapplication-TileImage" content="images/fa/ms-icon-144x144.png">
   <meta name="theme-color" content="#ffffff">
   <link rel="shortcut icon" href="images/fa/favicon.ico" type="image/x-icon">
-  <link rel="icon" href="images/fa/favicon.ico" type="image/x-icon">>
+  <link rel="icon" href="images/fa/favicon.ico" type="image/x-icon">
 
 </head>
 

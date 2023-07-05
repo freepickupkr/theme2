@@ -18,7 +18,7 @@
   <meta property="og:title" content="Free pick-up service Contact Imformation" />
   <meta property="og:description" content="Korea Incheon(or Gimpo) International Airport Free pick-up service" />
   <meta property="og:url" content="https://www.freepickupkr.site" />
-<meta name="naver-site-verification" content="234ff6d4876fbda29b9499684ad6fee91057b9c5" />
+  <meta name="naver-site-verification" content="234ff6d4876fbda29b9499684ad6fee91057b9c5" />
  
  
   <!-- ** Plugins Needed for the Project ** -->
