@@ -98,9 +98,9 @@
     <div class="row">
       <div class="col-lg-10 mx-auto text-center">
         <h2>Email or Instagram</h2>
-        <p>freepickupkr@gmail.com</p>
-		<div class="section-border"></div>
-		<p><a href="https://www.instagram.com/freepickupkr/" target="_blank">Instagram</a></p>
+	      <div class="section-border"></div>
+	      <p><a href="https://www.instagram.com/freepickupkr/" target="_blank">Instagram</a></p>
+	      <p>freepickupkr@gmail.com</p>
       </div>
     </div>
   </div>
