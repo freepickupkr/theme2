@@ -93,35 +93,18 @@
 </section>
 <!-- /page-title -->
 
-<div style="text-align:center; margin: 30px 0 30px;">
-<h1>Contact</h1>
-<form method="POST" name="contactform" action="contacthandler.php"> 
-<p>
-<label for='name'>Full name:</label> <br>
-<input type="text" name="name">
-</p>
-<p>
-<label for='email'>Email:</label> <br>
-<input type="text" name="email"> <br>
-</p>
-<p>
-<label for='message1'>Message:</label> <br>
-<textarea name="message1" rows="6" cols="60">
-</textarea>
-</p>
-
-
-<p>- Make sure that the content is entered correctly.</p>
-<input type="submit" value="Send"><br>
-</form>
-</tr></td></table>
-<script language="JavaScript">
-var frmvalidator  = new Validator("contactform");
-frmvalidator.addValidation("name","req","Please provide your name"); 
-frmvalidator.addValidation("email","req","Please provide your email"); 
-frmvalidator.addValidation("email","email","Please enter a valid email address"); 
-</script>
-</div>
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 mx-auto text-center">
+        <h2>Email or Instagram</h2>
+        <p>freepickupkr@gmail.com</p>
+		<div class="section-border"></div>
+		<p><a href="https://www.instagram.com/freepickupkr/" target="_blank">Instagram</a></p>
+      </div>
+    </div>
+  </div>
+</section>
 
 <!-- footer -->
 
