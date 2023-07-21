@@ -61,6 +61,16 @@
   <link rel="shortcut icon" href="images/fa/favicon.ico" type="image/x-icon">
   <link rel="icon" href="images/fa/favicon.ico" type="image/x-icon">
 
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-N3PJS4G40G"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-N3PJS4G40G');
+</script>
+
 </head>
 
 <body>
