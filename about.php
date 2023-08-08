@@ -6,7 +6,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title>Incheon(Gimpo) International Airport pick-up service</title>
+  <title>Incheon(Gimpo) International Airport pick-up service-</title>
 
   <!-- mobile responsive meta -->
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -18,12 +18,12 @@
   <!-- mobile responsive meta -->
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description" content="Visit korea, Free Picku up, Pick up service, Airport pick up" />
-  <meta name="keyword" content="pickup, freepickup">
+  <meta name="description" content="Visit korea, Free Pick up, Pick up service, Airport pick up, Seoul Incheon Airport" />
+  <meta name="keyword" content="pick up, free pick up">
   <meta property="og:type" content="website" />
-  <meta property="og:title" content="Free pick-up service" />
+  <meta property="og:title" content="Incheon Airport Free pick-up service" />
   <meta property="og:description" content="Korea Incheon(or Gimpo) International Airport Free pick-up service" />
-  <meta property="og:url" content="https://www.freepickupkr.site" />
+  <meta property="og:url" content="https://freepickupkr.site/" />
   <meta name="naver-site-verification" content="234ff6d4876fbda29b9499684ad6fee91057b9c5" />
   <!-- ** Plugins Needed for the Project ** -->
   <!-- Bootstrap -->
