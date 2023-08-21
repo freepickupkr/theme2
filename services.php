@@ -19,7 +19,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description" content="Visit korea, Free Pick up, Pick up service, Airport pick up, Seoul Incheon Airport" />
-  <meta name="keyword" content="pick up, free pick up">
+  <meta name="keywords" content="korea, seoul, jeju, korea trip, korea free van, incheon airport, gimpo airport, korea things to do, nami island, korea rail bike, everland, lotte world, family travel korea, korea with kids, airport pick up, free pickup, free pickup" />
   <meta property="og:type" content="website" />
   <meta property="og:title" content="Incheon Airport Free pick-up service" />
   <meta property="og:description" content="Korea Incheon(or Gimpo) International Airport Free pick-up service" />
